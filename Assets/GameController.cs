@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//hey 
 public enum KingState
 {
     ok, war, sick, epidemy, madness, delight, revolt
